@@ -15,16 +15,6 @@
     background: url('image/img_3769_resize.jpg') center/cover no-repeat;
     position: relative;
 }
-.body2::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 197vh;
-    background: rgba(0, 0, 0, 0.518);
-    z-index: -1;
-}
 .body1::before {
     content: "";
     position: absolute;
